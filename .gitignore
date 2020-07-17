@@ -2,3 +2,4 @@ venv
 train.mp4
 test.mp4
 train.txt
+.vscode
