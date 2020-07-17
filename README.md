@@ -1,5 +1,5 @@
 # CommaAI Speed Challenge
-Sample code for commaAI speed challenge (dense mapping still work in progress).
+Sample code for commaAI speed challenge (dense mapping still work in progress).</br>
 Task: predicting speed of a car from dashcam footage.</br>
 Approach: using dense flow and feature matching to track feature across consecutive frames in order to create a mapping system. Avoids dynamic features (e.g. other  cars) by implementing a pre-trained CNN. </br>
 
