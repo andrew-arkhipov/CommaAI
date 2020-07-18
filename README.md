@@ -4,7 +4,7 @@ Sample code for commaAI speed challenge (dense mapping still work in progress).
 <br>
 
 <strong>Task:</strong> predicting speed of a car from dashcam footage.</br>
-<strong>Approach:</strong> using dense optical flow and feature matching to track feature across consecutive frames in order to create a mapping system. Avoids dynamic features (e.g. other  cars) by implementing a pre-trained CNN. </br>
+<strong>Approach:</strong> using dense optical flow and feature matching to track feature across consecutive frames in order to create a mapping system. Avoids dynamic features (e.g. other  cars) by implementing a pre-trained CNN. Using the research papers in `Research Papers` to help guide approach.</br>
 
 <strong>Previous approach:</strong> used `visualizer.py` to produce average changes in distance of image features over consecutive frames, which were then fed into an recurrent CNN. Model wasn't able to pick up on any patterns due to lack of numerous, salient static features in consecutive frames. Code is in `scrapped`.
 
