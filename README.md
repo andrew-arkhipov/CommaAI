@@ -1,5 +1,5 @@
-# CommaAI Speed Challenge
-Sample code for commaAI speed challenge (dense mapping still work in progress).
+# CommaAI Speed Challenge - INCOMPLETE
+Sample code for commaAI speed challenge.
 
 <br>
 
